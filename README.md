@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebjeetManna
+- 👋 Hi, I’m Debjeet Manna
 
 <!---
 DebjeetManna/DebjeetManna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
